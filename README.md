@@ -4,41 +4,42 @@ This repository contains all the projects developed during an online web develop
 
 Included bellow is the content description of this course:
 
-HTML5
+	HTML5
 
-CSS3
+	CSS3
 
-JavaScript
+	JavaScript
 
-Bootstrap 4
+	Bootstrap 4
 
-SemanticUI
+	SemanticUI
 
-DOM Manipulation
+	DOM Manipulation
 
-jQuery
+	jQuery
 
-Unix(Command Line) Commands
+	Unix(Command Line) Commands
 
-NodeJS
+	NodeJS
 
-NPM
+	NPM
 
-ExpressJS
+	ExpressJS
 
-REST
+	REST
 
-MongoDB
+	MongoDB
 
-Database Associations
+	Database Associations
 
-Authentication
+	Authentication
 
-PassportJS
+	PassportJS
 
-Authorization
+	Authorization
 
 The projects were developed in the following order:
+
 	Pattern Website - HTML + CSS + Bootstrap
 	
 	Museum of Candy Website - HTML + CSS + Bootstrap
