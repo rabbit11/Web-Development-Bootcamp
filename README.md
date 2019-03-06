@@ -2,6 +2,8 @@
 
 This repository contains all the projects developed during an online web development bootcamp taken by me.
 
+The objective of this course was to learn everything needed to deploy an application/website. 
+
 Included bellow is the content description of this course:
 
 	HTML5
