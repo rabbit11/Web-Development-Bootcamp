@@ -38,4 +38,9 @@ PassportJS
 
 Authorization
 
+The projects were developed in the following order:
+  Pattern Website - HTML + CSS + Bootstrap
+	Museum of Candy Website - HTML + CSS + Bootstrap
+	To Do List Website - HTML + JS + jQuery
+
 More information can be found at the course's website: https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview
