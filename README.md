@@ -49,5 +49,7 @@ The projects were developed in the following order:
 	Color Game - HTML + CSS + Vanilla JS
 	
 	To Do List Website - HTML + JS + jQuery
+	
+	Circles - HTML + CSS + JS + Paper JS + Howl Js (the last two are animations and sound libraries for JS)
 
 More information can be found at the course's website: https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview
