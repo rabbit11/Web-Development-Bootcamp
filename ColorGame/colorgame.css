@@ -1,0 +1,30 @@
+body{
+    background: #232323; 
+}
+
+.square{
+    width: 30%;
+    margin: 1.66%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    border-radius: 15%;
+    transition: background 0.5s;
+    -webkit-transition: background 0.5s;
+    -moz-transition: background 0.5s;
+}
+
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.selected{
+    background-color: white;
+}
+
+.jumbotron{
+    transition: background 0.5s;
+    -webkit-transition: background 0.5s;
+    -moz-transition: background 0.5s;
+}
