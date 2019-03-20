@@ -42,7 +42,7 @@ Included bellow is the content description of this course:
 
 The projects were developed in the following order:
 
-	*Pattern Website* - HTML + CSS + Bootstrap
+	**Pattern Website** - HTML + CSS + Bootstrap
 	
 	*Museum of Candy Website* - HTML + CSS + Bootstrap
 	
