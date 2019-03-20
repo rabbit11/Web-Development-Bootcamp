@@ -42,19 +42,19 @@ Included bellow is the content description of this course:
 
 The projects were developed in the following order:
 
-	**Pattern Website** - HTML + CSS + Bootstrap
+	Pattern Website - HTML + CSS + Bootstrap
 	
-	*Museum of Candy Website* - HTML + CSS + Bootstrap
+	Museum of Candy Website - HTML + CSS + Bootstrap
 	
-	*Color Game* - HTML + CSS + Vanilla JS
+	Color Game - HTML + CSS + Vanilla JS
 	
-	*To Do List Website* - HTML + JS + jQuery
+	To Do List Website - HTML + JS + jQuery
 	
-	*Circles* - HTML + CSS + JS + Paper JS + Howl Js (the last two are animation and sound libraries for JS)
+	Circles - HTML + CSS + JS + Paper JS + Howl Js (the last two are animation and sound libraries for JS)
 	
-	*Movie Search App* - NodeJS + EJS + Express + APIs
+	Movie Search App - NodeJS + EJS + Express + APIs
 	
-	*RESTful Blog App* - NodeJS + EJS + Express + MongoDB + RESTful Routing
+	RESTful Blog App - NodeJS + EJS + Express + MongoDB + RESTful Routing
 	
 
 More information can be found at the course's website: https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview
